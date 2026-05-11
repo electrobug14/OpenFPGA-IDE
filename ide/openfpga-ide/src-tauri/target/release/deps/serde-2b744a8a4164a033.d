@@ -1,0 +1,14 @@
+/workspaces/OpenFPGA-IDE/ide/openfpga-ide/src-tauri/target/release/deps/serde-2b744a8a4164a033.d: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /workspaces/OpenFPGA-IDE/ide/openfpga-ide/src-tauri/target/release/build/serde-9a4671533e2ff8f9/out/private.rs
+
+/workspaces/OpenFPGA-IDE/ide/openfpga-ide/src-tauri/target/release/deps/libserde-2b744a8a4164a033.rlib: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /workspaces/OpenFPGA-IDE/ide/openfpga-ide/src-tauri/target/release/build/serde-9a4671533e2ff8f9/out/private.rs
+
+/workspaces/OpenFPGA-IDE/ide/openfpga-ide/src-tauri/target/release/deps/libserde-2b744a8a4164a033.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /workspaces/OpenFPGA-IDE/ide/openfpga-ide/src-tauri/target/release/build/serde-9a4671533e2ff8f9/out/private.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/workspaces/OpenFPGA-IDE/ide/openfpga-ide/src-tauri/target/release/build/serde-9a4671533e2ff8f9/out/private.rs:
+
+# env-dep:OUT_DIR=/workspaces/OpenFPGA-IDE/ide/openfpga-ide/src-tauri/target/release/build/serde-9a4671533e2ff8f9/out

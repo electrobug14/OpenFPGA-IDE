@@ -1,0 +1,9 @@
+Package: open-fpga-ide
+Version: 1.0.0
+Architecture: amd64
+Installed-Size: 5455
+Maintainer: OpenFPGA IDE
+Priority: optional
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Description: OpenFPGA IDE — open-source EDA toolchain GUI
+ (none)

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Categories=
+Comment=OpenFPGA IDE — open-source EDA toolchain GUI
+Exec=openfpga-ide
+StartupWMClass=openfpga-ide
+Icon=openfpga-ide
+Name=OpenFPGA IDE
+Terminal=false
+Type=Application
